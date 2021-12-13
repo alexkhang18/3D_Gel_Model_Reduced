@@ -1,0 +1,6 @@
+Mesh: ./cell_data/finger2/predicted_normal.xdmf
+No. Elements: 33256
+No. Processors: 1
+mu_ff = 1.000000e-04
+nu_ff = 4.900000e-01
+Total Time = 73.255337s

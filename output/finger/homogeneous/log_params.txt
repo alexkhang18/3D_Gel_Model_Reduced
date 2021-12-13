@@ -1,0 +1,6 @@
+Mesh: ./cell_data/finger/hole_coarse.xdmf
+No. Elements: 22016
+No. Processors: 1
+mu_ff = 1.000000e-04
+nu_ff = 4.900000e-01
+Total Time = 148.940750s
